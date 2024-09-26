@@ -1,0 +1,8 @@
+Instructions for new Users:
+After you download the zip file download all the requirements given in Readme.md file, You need to downgrade your python version to 3.8 which runs efficiently.
+Gestures provided in the code are:
+Index finger used to move the cursor.
+Index and middle finger for the click operation.
+Index and ring finger for scroll up operation.
+Middel finger and pinky to scroll down operation.
+(Bonus) Index finger and pinky should pinch together to do a Screenshot.
